@@ -1,28 +1,132 @@
-# coinsniper-upvote
-COINSNIPER UPVOTE BOT
+
+# COINSNIPER UPVOTE BOT
+ 
 
 Welcome to the Coinsniper upvote bot repository! This bot is designed to help Coinsniper users increase their visibility by automatically upvoting their projects on the Coinsniper platform.
 
-Features
-Automatically upvotes Coinsniper projects
-User-friendly interface
-Customizable upvote frequency
-Installation
-To install the Coinsniper upvote bot, follow these steps:
 
-Clone this repository to your local machine.
-Install the required dependencies by running npm install.
-Rename the .env.example file to .env.
+## Features
 
-Run the bot using npm start.
-Usage
-To use the Coinsniper upvote bot, simply run the npm start command in your terminal after configuring the .env file. The bot will automatically upvote your Coinsniper projects according to the frequency you set in the config.json file.
+- Fast And Auto Upvotes on CoinSniper Projects
+- Super Fast
+- Anti-Ban Functionalities
+- Uses Proxies
+- Upto 10000 Upvotes in 1 hour
+- Easy To Uses
 
-Contributing
-If you'd like to contribute to the Coinsniper upvote bot, please fork this repository and submit a pull request. We welcome all contributions, whether they are bug fixes, feature requests, or general improvements.
 
-License
-This project is licensed under the MIT license. See the LICENSE file for more information.
+## Required to Run
 
-Contact
-If you have any questions or comments about the Coinsniper upvote bot, please feel free to contact us at jhnuman00@gmail.com
+To run this project, you will need to install the following tools in your machine
+
+for Windows -`.NET` 
+
+ only for MacOS -`PYTHON`
+
+
+## Installation
+
+
+
+```bash
+
+  Paste Proxies in `proxy.txt`
+  Double Click on 'run.exe' or 'run.dmg' file
+  Paste your CoinSniper Project Link in the input section and click RUN
+
+   
+```
+    
+## Tech Stack
+
+**MAC:** Python/NodeJs
+
+**WINDOWS:** #C
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhnuman.com/)
+[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-brightgreen)](https://wa.me/+8801317558946)
+ jhnuman00@gmail.com
+
+
+
+
+
+
+
+Coinsniper upvote bot for sale
+Buy Coinsniper upvote bot
+Coinsniper upvote bot purchase
+Coinsniper upvote bot pricing
+Best Coinsniper upvote bot
+Coinsniper upvote bot review
+Affordable Coinsniper upvote bot
+Coinsniper upvote bot discount
+Coinsniper upvote bot coupon
+Coinsniper upvote bot promo code
+Coinsniper upvote bot trial
+Coinsniper upvote bot demo
+Coinsniper upvote bot features
+Coinsniper upvote bot benefits
+Coinsniper upvote bot advantages
+Coinsniper upvote bot disadvantages
+Coinsniper upvote bot support
+Coinsniper upvote bot documentation
+Coinsniper upvote bot FAQ
+Coinsniper upvote bot tutorial
+Coinsniper upvote bot user guide
+Coinsniper upvote bot installation
+Coinsniper upvote bot configuration
+Coinsniper upvote bot settings
+Coinsniper upvote bot frequency
+Coinsniper upvote bot automation
+Coinsniper upvote bot API integration
+Coinsniper upvote bot user interface
+Coinsniper upvote bot compatibility
+Coinsniper upvote bot reliability
+Coinsniper upvote bot security
+Coinsniper upvote bot performance
+Coinsniper upvote bot speed
+Coinsniper upvote bot accuracy
+Coinsniper upvote bot efficiency
+Coinsniper upvote bot productivity
+Coinsniper upvote bot results
+Coinsniper upvote bot analytics
+Coinsniper upvote bot statistics
+Coinsniper upvote bot data
+Coinsniper upvote bot tracking
+Coinsniper upvote bot monitoring
+Coinsniper upvote bot management
+Coinsniper upvote bot optimization
+Coinsniper upvote bot marketing
+Coinsniper upvote bot promotion
+Coinsniper upvote bot advertising
+Coinsniper upvote bot visibility
+Coinsniper upvote bot exposure
+Coinsniper upvote bot brand awareness
+Coinsniper upvote bot reputation
+Coinsniper upvote bot authority
+Coinsniper upvote bot credibility
+Coinsniper upvote bot trustworthiness
+Coinsniper upvote bot customer satisfaction
+Coinsniper upvote bot user experience
+Coinsniper upvote bot ease of use
+Coinsniper upvote bot simplicity
+Coinsniper upvote bot convenience
+Coinsniper upvote bot flexibility
+Coinsniper upvote bot customization
+Coinsniper upvote bot personalization
+Coinsniper upvote bot innovation
+Coinsniper upvote bot technology
+Coinsniper upvote bot AI
+Coinsniper upvote bot machine learning
+Coinsniper upvote bot automation tool
+Coinsniper upvote bot online marketing
+Coinsniper upvote bot digital marketing
+Coinsniper upvote bot search engine optimization
+Coinsniper upvote bot SEO
+Coinsniper upvote bot traffic generation
+Coinsniper upvote bot
+
+
